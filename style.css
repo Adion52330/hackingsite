@@ -1,0 +1,24 @@
+#hacking {
+  background-color: rgb(252, 229, 229);
+  display: flex;
+  margin: 2pc;
+  padding: 1.5pc;
+  border-radius: 5px;
+}
+
+#hacking div {
+  width: 100%;
+}
+
+#circles p {
+  background-color: burlywood;
+  border-radius: 3px;
+  padding: 14px;
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+#circles p button {
+  margin-left: 7px;
+}
